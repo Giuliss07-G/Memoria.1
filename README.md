@@ -1,2 +1,2 @@
-# Memoria.1
-Juego memoria actualizado
+# Juego emparejar
+Juego para emaprejar imágenes del la misma categoría
